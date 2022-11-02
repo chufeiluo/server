@@ -21,7 +21,7 @@ const argv = optimist
         describe: 'listen on this port for outside requests'
     })
     .options('address', {
-        default: '0.0.0.0',
+        default: '34.75.234.103',
         describe: 'IP address to bind to'
     })
     .options('domain', {
